@@ -525,23 +525,16 @@ METADATA=PRS_EPI_all_2022/Metadata/
 ./6_CMRB_Best_PRS.R ${PATH_TO_THRESH}/used_tresh.txt ${PATH_TO_THRESH}/final.Phenotipo_QC.fam ${METADATA}/COVARS.tsv 0.01
 ```
 ## Step 5. Replicate Figures
-The following R scripts allow you to produce the results of the manuscript. I make available the final result obtained by changing the IDS coding.
+The following R scripts allow you to produce the results of the manuscript. I make available the final result obtained by changing the IDS coding. Due to the availability of the data, we don´t provide code for Figure Sup 3
 ```
 cd Figures
 gunzip *_PRS_pheno_covar.tsv.gz
 
+./Figure_1.R
 ./Figure_2.R
 ./Figure_3.R
-./Figure_4.R
-./Figure_5.R
 ./Figure_Sup_1.R
 ./Figure_Sup_2.R
-./Figure_Sup_3.R
-./Figure_Sup_4.R
-./Figure_Sup_5.R
-./Figure_Sup_6.R
-./Figure_Sup_7.R
-./Figure_Sup_8.R
 ```
 
 
