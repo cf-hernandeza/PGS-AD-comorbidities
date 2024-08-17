@@ -16,7 +16,7 @@ This tutorial allow to replicate the analysis of PGS of Epilepsy in Alzheimer di
 4. [R](https://www.r-project.org/)
 
 ## Directory structure
-	PGS-PD-Comorbidities
+	PGS-AD-Comorbidities
 	├── PRS_EPI_all_2022
 	│   ├── 1_SS_GWAS_EPI_all_2022
 	|   ├── 2_QC_target_data     
