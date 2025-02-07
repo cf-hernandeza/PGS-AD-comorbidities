@@ -1,5 +1,5 @@
 # PGS-AD-comorbidities
-Pipeline with methodology to replicate manuscript "Polygenic Score Analysis Reveals Distinct Genetic Risk Profiles in the Presentation of Alzheimer's Disease Comorbidities"
+Pipeline with methodology to replicate manuscript "Polygenic Score Analysis Identifies Distinct Genetic Risk Profiles in Alzheimer's Disease Comorbidities"
 This tutorial allow to replicate the analysis of PGS of Epilepsy in Alzheimer disease Patients from UK biobank. 
 ## Files
 0. *EPI_GWAS* (NOT INCLUDED): Summary statistics from the last meatanalysis of epilepsy .
